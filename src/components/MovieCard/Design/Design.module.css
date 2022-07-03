@@ -1,0 +1,18 @@
+.design{
+    height:151vh;
+    width:65vw;
+    background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgr7zfJ257HgJ47rS8s2ov_EZ4d6WpzRLdsA1CE7MEoA&s);
+}
+.h1{
+    opacity: 1 !important;
+    visibility: visible;
+}
+.insideDiv{
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 30%;
+    transform: translate(-50,-50);
+}
+img{
+    width:150%
+}

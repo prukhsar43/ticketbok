@@ -1,0 +1,25 @@
+.div{
+   display: grid;
+   justify-content: center;
+   align-items: center;
+}
+
+.book_Seats{
+   margin-top:10px;
+   display: grid;
+   width:60px;
+   justify-content: space-evenly ;
+   position: relative;
+}
+.link{
+   text-decoration: none;
+}
+
+.h3{
+   /* position: absolute; */
+   top:10%;
+   margin-left: 20px;
+}
+.button{
+   margin-left: 89%;
+}
